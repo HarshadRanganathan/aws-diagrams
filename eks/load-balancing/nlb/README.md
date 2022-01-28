@@ -1,3 +1,3 @@
 ## EKS NLB
 
-![EKS NLB](eks-nlb.png)
+![EKS NLB Instance Mode](eks-nlb-instance-mode.png)
